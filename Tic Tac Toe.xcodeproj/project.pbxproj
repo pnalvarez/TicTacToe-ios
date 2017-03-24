@@ -14,6 +14,9 @@
 		6B1079E81E75CE9F003434C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B1079E61E75CE9F003434C0 /* LaunchScreen.storyboard */; };
 		6B1079F31E75CE9F003434C0 /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B1079F21E75CE9F003434C0 /* Tic_Tac_ToeTests.swift */; };
 		6B1079FE1E75CE9F003434C0 /* Tic_Tac_ToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B1079FD1E75CE9F003434C0 /* Tic_Tac_ToeUITests.swift */; };
+		6B107A0C1E75CF4F003434C0 /* board_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B107A0B1E75CF4F003434C0 /* board_0.png */; };
+		6B107A0E1E75D0FA003434C0 /* x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B107A0D1E75D0FA003434C0 /* x.png */; };
+		6B107A101E75D119003434C0 /* playO.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B107A0F1E75D119003434C0 /* playO.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		6B1079F91E75CE9F003434C0 /* Tic Tac ToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tic Tac ToeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B1079FD1E75CE9F003434C0 /* Tic_Tac_ToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeUITests.swift; sourceTree = "<group>"; };
 		6B1079FF1E75CE9F003434C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B107A0B1E75CF4F003434C0 /* board_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board_0.png; sourceTree = "<group>"; };
+		6B107A0D1E75D0FA003434C0 /* x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x.png; sourceTree = "<group>"; };
+		6B107A0F1E75D119003434C0 /* playO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playO.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +106,9 @@
 				6B1079DD1E75CE9E003434C0 /* AppDelegate.swift */,
 				6B1079DF1E75CE9F003434C0 /* ViewController.swift */,
 				6B1079E11E75CE9F003434C0 /* Main.storyboard */,
+				6B107A0B1E75CF4F003434C0 /* board_0.png */,
+				6B107A0D1E75D0FA003434C0 /* x.png */,
+				6B107A0F1E75D119003434C0 /* playO.png */,
 				6B1079E41E75CE9F003434C0 /* Assets.xcassets */,
 				6B1079E61E75CE9F003434C0 /* LaunchScreen.storyboard */,
 				6B1079E91E75CE9F003434C0 /* Info.plist */,
@@ -233,8 +242,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B1079E81E75CE9F003434C0 /* LaunchScreen.storyboard in Resources */,
+				6B107A0C1E75CF4F003434C0 /* board_0.png in Resources */,
+				6B107A0E1E75D0FA003434C0 /* x.png in Resources */,
 				6B1079E51E75CE9F003434C0 /* Assets.xcassets in Resources */,
 				6B1079E31E75CE9F003434C0 /* Main.storyboard in Resources */,
+				6B107A101E75D119003434C0 /* playO.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
